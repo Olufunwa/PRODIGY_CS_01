@@ -47,7 +47,7 @@ def main():
             print(f'Decrypted Text: {decrypted_text}')
 
         elif choice == 'exit':
-            print("Thank you!")
+            print("Thank you for using the Caesar Cipher Program!")
             break
         
         else:
